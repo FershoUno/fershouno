@@ -1,4 +1,8 @@
 # Hello!
 
 
-![https://raw.githubusercontent.com/FershoUno/https-github.com-FershoUno/refs/heads/main/terminal.svg](https://raw.githubusercontent.com/FershoUno/https-github.com-FershoUno/refs/heads/main/terminal.svg)
+<p align="center">
+  <img src="terminal.svg" alt="Terminal typing animation">
+</p>
+
+
