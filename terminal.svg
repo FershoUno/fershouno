@@ -50,4 +50,19 @@
   </text>
 
   <text x="30" y="190" class="text">
-    <tspan class="promp
+    <tspan class="prompt">fersho@linux</tspan>:~$ ls projects/
+  </text>
+
+  <text x="30" y="220" class="text">
+    plurios-manager
+  </text>
+
+  <text x="30" y="250" class="text">
+    docker-podman-labs
+  </text>
+
+  <text x="30" y="280" class="text">
+    wifi-antennas
+  </text>
+
+</svg>
