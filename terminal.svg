@@ -34,7 +34,7 @@
 
   <!-- Text -->
   <text x="30" y="50" class="text">
-    <tspan class="prompt">fersho@linux</tspan>:~$ whoami
+    <tspan class="prompt"></tspan>$ whoami
   </text>
 
   <text x="30" y="80" class="text">
@@ -42,27 +42,31 @@
   </text>
 
   <text x="30" y="120" class="text">
-    <tspan class="prompt">fersho@linux</tspan>:~$ echo "Sobre mí"
+    <tspan class="prompt"></tspan>$ echo "$ABOUT_ME"
   </text>
 
   <text x="30" y="150" class="text">
-    SysAdmin · Linux · Dev · Open Source
+    GNU/Linux user - FOSS Technologies Contributor
   </text>
 
   <text x="30" y="190" class="text">
-    <tspan class="prompt">fersho@linux</tspan>:~$ ls projects/
+    <tspan class="prompt"></tspan>$ ls projects/
   </text>
 
   <text x="30" y="220" class="text">
-    plurios-manager
+    plurios-live
   </text>
 
   <text x="30" y="250" class="text">
-    docker-podman-labs
+    docker-images
   </text>
 
   <text x="30" y="280" class="text">
-    wifi-antennas
+    localrpm
+  </text>
+
+  <text x="30" y="310" class="text">
+    minios-usb-creator
   </text>
 
 </svg>
